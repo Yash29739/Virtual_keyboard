@@ -10,10 +10,6 @@ A fun and interactive virtual piano keyboard that you can play using your finger
 - Uses real-time hand tracking powered by **MediaPipe**.
 - Customizable with your own `.mp3` sound files.
 
-## 🖼️ Demo
-
-> *(Add a GIF or link to a video demo here if you have one.)*
-
 ## 📁 Project Structure
 
 ```
